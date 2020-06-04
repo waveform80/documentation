@@ -47,4 +47,7 @@ Some basic guides to configuring your Raspberry Pi.
 - [The boot folder](boot_folder.md)
     - What it's for and what's in it
 - [Network File System (NFS)](nfs.md)
-    - How to set up a NFS and connect clients to it
+    - How to set up an NFS server and connect clients to it
+- Virtual Private Network (VPN)
+    - How to connect to an external VPN [as a client](vpn_client.md)
+    - How to set up a [VPN server](vpn_server.md)
